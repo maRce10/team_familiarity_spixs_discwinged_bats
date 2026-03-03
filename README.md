@@ -15,10 +15,6 @@ Marcelo Araya-Salas1, Damien R. Farine, Holger R. Goerlitz, Nazareth Rojas-Rojas
 To test whether familiarity among group members enhances coordination and efficiency in a complex collective tasks
 
 
-## Data analysis
-
-- [Statistical analysis](https://rpubs.com/marcelo-araya-salas/1367687)
-
 
 ## Status
 
