@@ -1,0 +1,4 @@
+packrat/lib*/
+.httr-oauth
+.Rproj.user
+unused_files
